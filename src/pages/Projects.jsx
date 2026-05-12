@@ -29,6 +29,20 @@ function Projects() {
             image: "/images/_ai_agency.png",
             live: "https://fzdev-ai-agency.vercel.app/",
             github: "https://github.com/fz12dev/fzdev-ai-agency",
+        },
+        {
+            title: "Brew Haven Coffee Website",
+            desc: "Modern coffee brand landing page with smooth UI, responsive layout and attractive product showcase design.",
+            image: "/images/_brew_haven.png",
+            live: "https://brew-haven-pearl.vercel.app/",
+            github: "https://github.com/fz12dev/brew-haven",
+        },
+        {
+            title: "AI Chat Assistant Web App",
+            desc: "AI-powered chat application with real-time responses, clean UI, and smooth user experience built using React.",
+            image: "/images/_ai_chat.png",
+            live: "https://promptflow-ai-peach.vercel.app/",
+            github: "https://github.com/fz12dev/promptflow-ai",
         }
     ];
 
