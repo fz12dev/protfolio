@@ -30,6 +30,39 @@ A premium, modern, and animation-rich developer portfolio inspired by the design
 
 ---
 
+## 📂 Featured Projects
+
+### 1. Portfolio Website
+Creative Development — 2026  
+🔗 Live: https://fzdev-ai-agency.vercel.app/  
+💻 GitHub: https://github.com/fz12dev/fzdev-ai-agency
+
+### 2. Real Estate Landing Page
+UI Development — 2026  
+💻 GitHub: https://github.com/fz12dev/architecture-website
+
+### 3. E-commerce Platform
+Frontend Engineering — 2026  
+💻 GitHub: https://github.com/fz12dev/jewellery-ecommerce
+
+### 4. Brew Haven
+Coffee Shop Website — 2026  
+🔗 Live: https://brew-haven-pearl.vercel.app/  
+💻 GitHub: https://github.com/fz12dev/brew_haven
+
+---
+
+---
+
+## 📸 Screenshots
+
+<img width="1906" height="933" alt="_ai_agency" src="https://github.com/user-attachments/assets/e48259e6-ac35-4551-ad06-ef44cefe0eda" />
+<img width="1903" height="927" alt="_jewellery" src="https://github.com/user-attachments/assets/a2d4ae4c-449f-4fa8-863c-7e0dc454c0c8" />
+<img width="1903" height="929" alt="_architecture" src="https://github.com/user-attachments/assets/377274fa-ec7e-41c5-b1de-a769c7a222d0" />
+<img width="1906" height="926" alt="_brew_haven" src="https://github.com/user-attachments/assets/b097ff13-cbb9-4c22-a022-a7a2b823bdbb" />
+
+---
+
 ## 📂 Project Structure
 
 ```bash
