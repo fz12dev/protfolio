@@ -25,6 +25,14 @@ function Projects() {
             image: "/images/_jewellery.png",
             live: "https://your-jewellery-demo-link.com",
             github: "https://github.com/github/fz12dev/jewellery-ecommerce",
+        },
+         {
+            index: "04",
+            title: "Brew Haven",
+            category: "Coffee Shop Website — 2026",
+            image: "/images/_brew_haven.png",
+            live: "https://brew-haven-pearl.vercel.app/",
+            github: "https://github.com/fz12dev/brew_haven",
         }
     ];
 
