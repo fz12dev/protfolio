@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="bg-[#070707] text-white min-h-screen scroll-smooth relative selection:bg-white selection:text-black font-inter overflow-hidden">
-      
+
       {/* 🔥 CUSTOM CURSOR (Hidden on mobile) */}
       <motion.div
         className="fixed top-0 left-0 w-4 h-4 bg-white rounded-full pointer-events-none z-50 mix-blend-difference hidden md:block transform -translate-x-1/2 -translate-y-1/2"
