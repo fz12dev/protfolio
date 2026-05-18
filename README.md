@@ -1,16 +1,48 @@
-# React + Vite
+# 🚀 Mohammed Faiz — Frontend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, modern, and animation-rich developer portfolio inspired by the design philosophy of Luke Baffait. Built with React, Tailwind CSS, and Framer Motion, this portfolio showcases selected projects, technical skills, and contact information in a clean and immersive experience.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://protfolio-one-self.vercel.app/](https://vercel.com/fz12devs-projects)  
+💻 **GitHub Repository:** [https://github.com/fz12dev/protfolio-one-self](https://github.com/fz12dev/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎨 Minimal black-and-white creative design
+- ⚡ Smooth animations using Framer Motion
+- 📱 Fully responsive layout
+- 🖼️ Project showcase with live demo and GitHub links
+- 🧭 Sticky navigation
+- ✉️ Contact section with social links
+- 🌙 Modern UI inspired by award-winning portfolios
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- Framer Motion
+- JavaScript (ES6+)
+- Vite
+- Vercel Deployment
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Card.jsx
+│   ├── Footer.jsx
+│   └── Cursor.jsx
+├── pages/
+│   └── Projects.jsx
+├── assets/
+├── App.jsx
+├── main.jsx
+└── index.css
