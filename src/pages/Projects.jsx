@@ -26,14 +26,30 @@ function Projects() {
             live: "https://your-jewellery-demo-link.com",
             github: "https://github.com/github/fz12dev/jewellery-ecommerce",
         },
-         {
+        {
             index: "04",
             title: "Brew Haven",
             category: "Coffee Shop Website — 2026",
             image: "/images/_brew_haven.png",
             live: "https://brew-haven-pearl.vercel.app/",
             github: "https://github.com/fz12dev/brew_haven",
-        }
+        },
+        {
+            index: "05",
+            title: "FitTrack Web App",
+            category: "Fitness Tracking Platform — 2026",
+            image: "/images/_fittrack.png",
+            live: "https://v0-fittrack-web-app.vercel.app/",
+            github: "https://github.com/fz12dev/v0-fittrack-web-app",
+        },
+        {
+            index: "06",
+            title: "Tattoo Design Tool",
+            category: "Interactive Design Application — 2026",
+            image: "/images/_tattoo_design_tool.png",
+            live: "https://tattoo-design-tool.vercel.app/",
+            github: "https://github.com/fz12dev/tattoo-design-tool",
+        },
     ];
 
     return (
