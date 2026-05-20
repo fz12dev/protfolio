@@ -65,10 +65,20 @@ Interactive Design Application — 2026
 ## 📸 Screenshots
 
 <img width="1906" height="933" alt="_ai_agency" src="https://github.com/user-attachments/assets/e48259e6-ac35-4551-ad06-ef44cefe0eda" />
+
+---
 <img width="1903" height="927" alt="_jewellery" src="https://github.com/user-attachments/assets/a2d4ae4c-449f-4fa8-863c-7e0dc454c0c8" />
+
+---
 <img width="1903" height="929" alt="_architecture" src="https://github.com/user-attachments/assets/377274fa-ec7e-41c5-b1de-a769c7a222d0" />
+
+---
 <img width="1906" height="926" alt="_brew_haven" src="https://github.com/user-attachments/assets/b097ff13-cbb9-4c22-a022-a7a2b823bdbb" />
+
+---
 <img width="1907" height="926" alt="_fittrack" src="https://github.com/user-attachments/assets/c836b8c7-fc74-4329-b4c9-e02d9465727d" />
+
+---
 <img width="1919" height="933" alt="_tattoo_design_tool" src="https://github.com/user-attachments/assets/ab9f5670-2614-419a-82df-e0e16948048f" />
 
 
