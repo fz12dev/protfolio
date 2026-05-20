@@ -62,8 +62,6 @@ Interactive Design Application — 2026
 
 ---
 
----
-
 ## 📸 Screenshots
 
 <img width="1906" height="933" alt="_ai_agency" src="https://github.com/user-attachments/assets/e48259e6-ac35-4551-ad06-ef44cefe0eda" />
